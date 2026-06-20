@@ -78,7 +78,7 @@ class ConfettiManager {
 
 // Global App State
 const state = {
-  studentName: '杨俊一',
+  studentName: '一一',
   challengeMode: 'all', // 'all' or 'smart'
   currentQuestionIndex: 0,
   score: 0,
